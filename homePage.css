@@ -1,0 +1,121 @@
+#mainHeader{
+  height: 100px;
+  width: 1350px;
+  background-color: green;
+  float: left;
+  margin-top: -9px;
+
+}
+#sdk{
+  float: left;
+  margin-left: 200px;
+  margin-top: 30px;
+}
+.search{
+  padding: 10px;
+  width: 250px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.btn{
+  padding: 10px;
+  width: 80px;
+  border-radius: 12px;
+  background-color: brown;
+}
+#menu{
+  float: left;
+}
+#menu ul li{
+list-style: none;
+float: left;
+margin: 45px;
+text-align: center;
+margin-bottom: 20px;
+margin-top: 25px;
+color: orange;
+}
+#menu ul li a:hover{
+background-color: navy;
+padding: 10px;
+color: white;
+
+}
+#menu ul li a:visited{
+  color: black;
+
+}
+#menu ul li a{
+ color: orange;
+}
+#middle{
+  height: 750px;
+  background-color: grey;
+  width: 1350px;
+}
+#top{
+  height: 300px;
+  width: 1350px;
+  background-color: #f1f1f1;
+  
+  
+  
+}
+#buttom{
+height: 450px;
+width: 1350px;
+background-color: white;
+}
+.p1{
+  width: 450px;
+  height: 350px;
+  
+  float: left;
+  margin-left: auto;
+}
+.p2{
+  width: 450px;
+  height: 350px;
+  
+  float: left;
+  margin-left: auto;
+}
+.p3{
+  width: 450px;
+  height: 350px;
+ 
+  float: left;
+  margin-left: auto;
+}
+#footer{
+  height: 200px;
+  width: 1350px;
+  background-color: #2F4F4F;
+}
+.u{
+  float: left;
+  margin-left: 110px;
+}
+.y{
+  float: left;
+  margin-left: 170px;
+}
+.t{
+  float: left;
+  margin-left: 170px;
+  list-style: none;
+}
+.wsx{
+  float: left;
+  margin-top: 40px;
+  font-size: : 35px;
+  font-weight: bold;
+  font-family: cursive;
+}
+.edc{
+  float: left;
+  margin-top: 40px;
+  font-size: : 95px;
+  font-weight: Arial, Helvetica, sans-serif;
+  border-style: solid;
+}
